@@ -1,4 +1,4 @@
-package com.rnwithnativewind
+package com.healthpal
 
 import android.app.Application
 import com.facebook.react.PackageList
